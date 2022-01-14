@@ -1,0 +1,9 @@
+/home/gustavo/NetBeansProjects/mini_crud/src/main/java/mini_crud/application/Program.java
+/home/gustavo/NetBeansProjects/mini_crud/src/main/java/mini_crud/conexaoPostgresql/Conexao.java
+/home/gustavo/NetBeansProjects/mini_crud/src/main/java/mini_crud/tela/TelaPrincipal.java
+/home/gustavo/NetBeansProjects/mini_crud/src/main/java/mini_crud/model/Cliente.java
+/home/gustavo/NetBeansProjects/mini_crud/src/main/java/mini_crud/model/Telefone.java
+/home/gustavo/NetBeansProjects/mini_crud/src/main/java/mini_crud/dao/ClienteDAO.java
+/home/gustavo/NetBeansProjects/mini_crud/src/main/java/mini_crud/dao/PessoaDAO.java
+/home/gustavo/NetBeansProjects/mini_crud/src/main/java/mini_crud/dao/TelefoneDAO.java
+/home/gustavo/NetBeansProjects/mini_crud/src/main/java/mini_crud/model/Pessoa.java
